@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/filemon/Dropbox/terminal/st
+TryExec=/home/filemon/Dropbox/terminal/st
+Icon=utilities-terminal
+Terminal=false
+Categories=System;TerminalEmulator;
+
+Name=st
+GenericName=Terminal
+Comment=st is a simple terminal implementation for X
+StartupWMClass=st-256color
